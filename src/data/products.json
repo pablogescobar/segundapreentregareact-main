@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Gola",
+      "price": 10,
+      "imgUrl": "./images/zapa1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "DC",
+      "price": 800,
+      "imgUrl": "./images/zapa2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "New Balance",
+      "price": 400,
+      "imgUrl": "./images/zapa3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tascani",
+      "price": 550,
+      "imgUrl": "./images/zapa7.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Adidas Shoes",
+      "price": 550,
+      "imgUrl": "./images/zapa5.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Nike Shoes",
+      "price": 550,
+      "imgUrl": "./images/zapa6.jpg"
+    }
+  ]
+  
